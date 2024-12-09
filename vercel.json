@@ -11,8 +11,4 @@
             "src": "/(.*)",
             "dest": "bot.py"
         }
-    ],
-    "env": {
-        "TELEGRAM_BOT_TOKEN": "@telegram-bot-token"
-    }
-}
+    ]
